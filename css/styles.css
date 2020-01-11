@@ -65,8 +65,8 @@ hr {
 }
 
 .intro {
-  margin: auto;
-  padding-bottom: 20px;
+  margin: 40px auto 40px;
+  width: 35%;
 }
 
 .skill-row {
@@ -102,8 +102,16 @@ hr {
 }
 
 .contact-me{
-  margin: 40px auto 40px;
-  width: 51%;
+  margin: auto;
+  width: 45%;
+}
+
+.cm1 {
+  margin-bottom: 40px;
+}
+
+.cm2 {
+  margin-bottom: 40px;
 
 }
 
